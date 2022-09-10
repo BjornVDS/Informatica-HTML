@@ -38,3 +38,9 @@ p {
     line-height: 1.5;
     text-align: center;
 }
+h2 {
+    font-size: 1.5em;
+    background-color: #be3c3c;
+    margin: 20px;
+    padding: 40px;
+}
