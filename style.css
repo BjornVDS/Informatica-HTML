@@ -7,3 +7,34 @@ h1 {
   color:#ffc;
   background-color:#009;
 }
+h2 {
+  color:#009;
+  background-color: #ffc;
+}
+h3 {
+  color:#009;
+  background-color: #ffc;
+}
+{
+  font-family: arial, helvetica, sans-serif;
+font-size: 14px;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+a {
+  text-decoration: none;
+}
+strong {
+  font-style: italic;
+  text-transform: uppercase;
+}
+p {
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: 1.5;
+    text-align: center;
+}
